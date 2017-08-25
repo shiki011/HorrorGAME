@@ -84,18 +84,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Assets\Script\Chase.cs" />
-    <Compile Include="Assets\Assets\Script\Fall_GameOver.cs" />
-    <Compile Include="Assets\Assets\Script\GameClear.cs" />
-    <Compile Include="Assets\Assets\Script\GAMEOVER.cs" />
-    <Compile Include="Assets\Assets\Script\Message.cs" />
-    <Compile Include="Assets\Assets\Script\Monster_Generate.cs" />
-    <Compile Include="Assets\Assets\Script\Monster_Run.cs" />
-    <Compile Include="Assets\Assets\Script\On_Off.cs" />
-    <Compile Include="Assets\Assets\Script\Player_Controller.cs" />
-    <Compile Include="Assets\Assets\Script\Player_Stop.cs" />
-    <Compile Include="Assets\Assets\Script\sound.cs" />
-    <Compile Include="Assets\Assets\Script\TimeScript.cs" />
+    <Compile Include="Assets\download\Script\Chase.cs" />
+    <Compile Include="Assets\download\Script\Destroy.cs" />
+    <Compile Include="Assets\download\Script\Fall_GameOver.cs" />
+    <Compile Include="Assets\download\Script\GameClear.cs" />
+    <Compile Include="Assets\download\Script\GAMEOVER.cs" />
+    <Compile Include="Assets\download\Script\GameStart.cs" />
+    <Compile Include="Assets\download\Script\GameStartStart.cs" />
+    <Compile Include="Assets\download\Script\Message.cs" />
+    <Compile Include="Assets\download\Script\Monster_Generate.cs" />
+    <Compile Include="Assets\download\Script\Monster_Run.cs" />
+    <Compile Include="Assets\download\Script\On_Off.cs" />
+    <Compile Include="Assets\download\Script\Player_Controller.cs" />
+    <Compile Include="Assets\download\Script\Player_Stop.cs" />
+    <Compile Include="Assets\download\Script\Pop.cs" />
+    <Compile Include="Assets\download\Script\sound.cs" />
+    <Compile Include="Assets\download\Script\TimeScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Damaged_old_car\readme.txt" />

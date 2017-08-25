@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Assets/GameOver.unity
+    path: Assets/download/GameOver.unity
     guid: 11a4b9b1573f9184895683fa21029fb0
   - enabled: 1
-    path: Assets/Assets/GameClear.unity
+    path: Assets/download/GameClear.unity
     guid: aacebc51b2fa9944d82cf0bd2129f6df
+  - enabled: 1
+    path: Assets/download/GameStart.unity
+    guid: 9bc9643c77af45d4cb4f26a9fa0c0b59
+  - enabled: 1
+    path: Assets/download/GameStartStart.unity
+    guid: d877bdd5f74407b40bd8c096bed4b05b
+  - enabled: 1
+    path: Assets/terrain.unity
+    guid: 511f15bdf8e75284a9cdf5039790a60a
